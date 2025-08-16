@@ -5,7 +5,7 @@
 The legacy environments predate the tone mapping update released in the summer of 2025.
 
 ## Installation
-To modify your viewport environments, replace (do not merge) the folder located at the following directory:
+To modify your viewport environments, replace (do not merge) the folders located in the following directory:
 
 MacOS:
 
